@@ -1,0 +1,38 @@
+
+
+.title-colaboraciones {
+    color: white;
+    text-align: center;
+
+
+}
+.section-principal-colaboraciones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.colaboraciones{
+    width: 18.75rem;
+    height: 31.25rem;
+    overflow: hidden; /**oculatar excesos  **/
+    margin: .625rem;
+    background-color: #0D0D0D;
+}
+.info-cuadro{
+    text-align: center;
+    color: aliceblue;
+    text-align: center;
+
+}
+.colaboraciones div img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    
+    
+    
+}
+.info-cuadro ul li{
+    color: #2df034;
+}

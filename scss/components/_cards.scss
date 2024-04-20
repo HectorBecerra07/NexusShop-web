@@ -1,0 +1,48 @@
+/* imagen principal   */
+.section-principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    
+}
+/* cards de la pagina  */
+.card{
+    width: 18.75rem;
+    height: 31.25rem;
+    border: 1px solid rgba(0, 0, 0, 0.267);
+    border-radius: 1.875rem;
+    overflow: hidden; /**oculatar excesos  **/
+    margin: .625rem;
+    background-color: rgb(255, 255, 255);
+    
+
+}
+.promociones{
+    text-align: center;
+    color: white;
+    margin: 1.875rem;
+
+
+}
+.text-basicas{
+    text-align: center;
+    color: white;
+}
+
+.card div{
+    height: 70%;
+    transition: all .3s ase; 
+}
+.card div img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 1.875rem;
+    
+    
+}
+.card-info{
+    background-color: rgba(255, 255, 255, 0.12);
+    text-align: center;
+}

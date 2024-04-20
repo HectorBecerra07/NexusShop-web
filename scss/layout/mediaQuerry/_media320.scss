@@ -1,0 +1,22 @@
+@media(max-width:320px){
+    .logo{
+        margin: auto auto auto auto ;
+        text-align: center;
+        
+        
+    }
+    .bars .line{
+        width: 30px;
+        height: 3px; 
+        background-color: rgb(0, 0, 0);
+        margin: 6px 20px;
+    }
+    .section-principal{
+        flex-wrap: wrap;
+        
+    }
+    .pc-inicio{
+        flex-flow: wrap;
+    }
+
+}

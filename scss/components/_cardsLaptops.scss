@@ -1,0 +1,33 @@
+
+.section-principal-laptops{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card-laptops{
+    width: 18.75rem;
+    height: 510px;
+    border: 1px solid rgba(0, 0, 0, 0.312);
+    border-radius: 1.875rem;
+    overflow: hidden; /**oculatar excesos  **/
+    margin: .625rem;
+    background-color: rgb(255, 255, 255);
+}
+.card-laptops div img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    border-radius: 1.875rem;
+    
+    
+}
+.card-info-laptops{
+    text-align: center;
+}
+.title-colaboraciones{
+    margin: 30px;
+}
+.section-principal-colaboraciones{
+    flex-wrap: wrap;
+}

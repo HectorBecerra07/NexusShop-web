@@ -1,0 +1,11 @@
+{
+  "name": "nexusshop-web",
+  "version": "1.0.0",
+  "description": "Este proyecto se implementara todo lo visto en las seciones tendra como abjetivo hacer resposivo nuestro sitio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

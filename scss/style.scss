@@ -1,0 +1,15 @@
+@use'./base/reset';
+@use'./layout/header';
+@use'./layout/nav';
+@use'./layout/mediaQuerry/media1024px';
+@use'./layout/mediaQuerry/media900px';
+@use'./layout/mediaQuerry/media375px';
+@use'./layout/mediaQuerry/media320';
+@use'./utilities/slider';
+@use'./components/cards';
+@use'./components/button';
+@use'./components/cardsInicio';
+@use'./layout/footer';
+@use'./layout/form/contacto';
+@use'./layout/colaboraciones/colaboraciones';
+@use'./components/cardsLaptops';

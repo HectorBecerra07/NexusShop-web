@@ -1,0 +1,27 @@
+.button-compra {
+    padding: 4px 1.875rem;
+    text-align: center;
+    background-color: rgb(145, 24, 29);
+    color: white;
+    border: none;
+    border-radius: .25rem;
+    cursor: pointer;
+    
+}
+.text-basicas{
+    margin: 15px;
+}
+.equipos-gaming{
+    margin: 30px;
+}
+/* boton de compra de las cards */
+.button-compra a{
+    color: white;
+    text-decoration: none;
+}
+.button-compra:hover{
+    background-color: #45a049;
+}
+.button-compra:active {
+    background-color: #3e8e41
+}
